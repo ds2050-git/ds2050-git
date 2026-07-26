@@ -4,6 +4,17 @@ Hi, I'm **Dev Saraswat**, a Computer Science undergraduate at **IIIT Vadodara** 
 
 I enjoy solving challenging algorithmic problems, building intelligent applications, and exploring cutting-edge AI through research and real-world projects. Whether it's designing custom deep learning architectures, reinforcement learning systems, or high-performance algorithmic applications, I love turning ideas into working solutions.
 
+# 📬 Reach Out To Me
+
+<p align="left">
+  <a href="mailto:devsaraswat664@gmail.com">
+    <img src="https://img.shields.io/badge/Email-devsaraswat664%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/dev-saraswat-54bb47343/">
+    <img src="https://img.shields.io/badge/LinkedIn-Dev%20Saraswat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 ### 🚀 Quick Highlights
 
 - 🎓 **B.Tech in Computer Science & Engineering** @ IIIT Vadodara
@@ -11,11 +22,6 @@ I enjoy solving challenging algorithmic problems, building intelligent applicati
 - 🧠 Solved **1000+ algorithmic problems**
 - 👑 **Knight** on **LeetCode** (Peak Rating **1867**)
 - ⭐ **3-Star Coder** on **CodeChef** (Peak Rating **1604**)
-
-#### 💻 Problems Solved
-- **500+** LeetCode
-- **300+** Codeforces
-- **300+** GeeksforGeeks
 
 ### 💡 Interests
 
@@ -31,10 +37,6 @@ I enjoy solving challenging algorithmic problems, building intelligent applicati
 - Backend System Development
 - Building scalable AI-powered applications
 - Advanced Data Structures & Algorithms
-
-### 🎯 Philosophy
-
-> *"Code. Learn. Build. Repeat."* 🚀
 
 
 ## 🌐 Socials:

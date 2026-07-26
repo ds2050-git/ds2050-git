@@ -1,5 +1,40 @@
-# 💫 About Me:
-# 👋 About Me<br><br>Hi, I'm Dev Saraswat, a Computer Science undergraduate at IIIT Vadodara passionate about Software Engineering, Machine Learning, Artificial Intelligence, and Competitive Programming.<br><br>I enjoy solving challenging algorithmic problems, building intelligent applications, and exploring cutting-edge AI through research and real-world projects. Whether it's designing custom deep learning architectures, reinforcement learning systems, or high-performance algorithmic applications, I love turning ideas into working solutions.<br><br>## 🚀 Quick Highlights<br><br>* 🎓 **B.Tech in Computer Science & Engineering** @ IIIT Vadodara<br>* 📚 **CGPA:** **8.4 / 10**<br>* 🧠 Solved **1000+ algorithmic problems** across coding platforms<br>* 👑 **Knight** on **LeetCode** (Peak Rating **1867**)<br>* ⭐ **3-Star Coder** on **CodeChef** (Peak Rating **1604**)<br>* 💻 Solved:<br><br>  * **500+** problems on **LeetCode**<br>  * **300+** problems on **Codeforces**<br>  * **300+** problems on **GeeksforGeeks**<br><br>## 💡 Interests<br><br>* 🤖 Machine Learning & Deep Learning<br>* 💻 Software Engineering<br>* ⚡ Competitive Programming<br>* 🧩 Data Structures & Algorithms<br><br>## 🌱 Currently Exploring<br><br>* Large Language Models (LLMs)<br>* Reinforcement Learning<br>* Backend System Development<br>* Building scalable AI-powered applications<br>* Advanced Data Structures & Algorithms<br><br>## 🎯 Philosophy<br><br>I believe that great software is built by combining strong problem-solving skills, solid engineering principles, and a mindset of continuous learning. I'm always excited to collaborate, contribute to open source, and build projects that create real-world impact.<br><br>> **"Code. Learn. Build. Repeat."** 🚀<br>
+## 💫 About Me
+
+Hi, I'm **Dev Saraswat**, a Computer Science undergraduate at **IIIT Vadodara** passionate about **Software Engineering, Machine Learning, Artificial Intelligence, and Competitive Programming**.
+
+I enjoy solving challenging algorithmic problems, building intelligent applications, and exploring cutting-edge AI through research and real-world projects. Whether it's designing custom deep learning architectures, reinforcement learning systems, or high-performance algorithmic applications, I love turning ideas into working solutions.
+
+### 🚀 Quick Highlights
+
+- 🎓 **B.Tech in Computer Science & Engineering** @ IIIT Vadodara
+- 📚 **CGPA:** **8.4 / 10**
+- 🧠 Solved **1000+ algorithmic problems**
+- 👑 **Knight** on **LeetCode** (Peak Rating **1867**)
+- ⭐ **3-Star Coder** on **CodeChef** (Peak Rating **1604**)
+
+#### 💻 Problems Solved
+- **500+** LeetCode
+- **300+** Codeforces
+- **300+** GeeksforGeeks
+
+### 💡 Interests
+
+- 🤖 Machine Learning & Deep Learning
+- 💻 Software Engineering
+- ⚡ Competitive Programming
+- 🧩 Data Structures & Algorithms
+
+### 🌱 Currently Exploring
+
+- Large Language Models (LLMs)
+- Reinforcement Learning
+- Backend System Development
+- Building scalable AI-powered applications
+- Advanced Data Structures & Algorithms
+
+### 🎯 Philosophy
+
+> *"Code. Learn. Build. Repeat."* 🚀
 
 
 ## 🌐 Socials:

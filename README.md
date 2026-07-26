@@ -17,26 +17,15 @@ I enjoy solving challenging algorithmic problems, building intelligent applicati
 
 ### 🚀 Quick Highlights
 
-- 🎓 **B.Tech in Computer Science & Engineering** @ IIIT Vadodara
-- 📚 **CGPA:** **8.4 / 10**
-- 🧠 Solved **1000+ algorithmic problems**
-- 👑 **Knight** on **LeetCode** (Peak Rating **1867**)
-- ⭐ **3-Star Coder** on **CodeChef** (Peak Rating **1604**)
+I'm currently pursuing a **B.Tech in Computer Science & Engineering** at **IIIT Vadodara**, maintaining a **CGPA of 8.4/10**. I have solved **1000+ algorithmic problems** across multiple coding platforms, earning a **Knight** badge on **LeetCode** with a peak rating of **1867** and achieving **3-Star Coder** status on **CodeChef** with a peak rating of **1604**.
 
 ### 💡 Interests
 
-- 🤖 Machine Learning & Deep Learning
-- 💻 Software Engineering
-- ⚡ Competitive Programming
-- 🧩 Data Structures & Algorithms
+My primary interests lie in **Software Engineering**, **Machine Learning**, **Artificial Intelligence**, and **Competitive Programming**. I enjoy designing efficient algorithms, building intelligent applications, and solving complex problems using strong foundations in **Data Structures & Algorithms**.
 
 ### 🌱 Currently Exploring
 
-- Large Language Models (LLMs)
-- Reinforcement Learning
-- Backend System Development
-- Building scalable AI-powered applications
-- Advanced Data Structures & Algorithms
+I'm currently expanding my expertise in **Large Language Models (LLMs)**, **Reinforcement Learning**, and **Backend System Development**, while focusing on building scalable AI-powered applications and deepening my understanding of advanced algorithms and data structures.
 
 
 ## 🌐 Socials:
